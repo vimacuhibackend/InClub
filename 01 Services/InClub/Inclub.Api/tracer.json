@@ -1,0 +1,10 @@
+{
+  "Jaeger": {
+    "Enable": false,
+    //"ServiceName": "",
+    "UdpHost": "172.16.75.70",
+    "UdpPort": 6831,
+    "MaxPackageSize": 0,
+    "Sampler": "const"
+  }
+}
